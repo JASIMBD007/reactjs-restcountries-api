@@ -1,0 +1,9 @@
+.country {
+  background-color: coral;
+  margin: 20px;
+  padding: 10px;
+}
+.flags {
+  height: 150px;
+  width: 300px;
+}
